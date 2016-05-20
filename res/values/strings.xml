@@ -30,6 +30,6 @@
     <string name="deep_link_make_a_task_with">Make a Task with %1$s</string>
     <string name="deep_link_link">DeepLink</string>
     <string name="deep_link_create_a_link">Create a Link</string>
-    <string name="deep_link_create_a_link_with">Create a Link with %1%s</string>
+    <string name="deep_link_create_a_link_with">Create a Link with %1$s</string>
     <string name="deep_link_view_label">View %1$s</string>
 </resources>
