@@ -17,5 +17,8 @@
   <string name="df_domain_music">Musik</string>
   <string name="df_domain_music_permission">Auf Ihre Musik zugreifen</string>
   <!-- Label strings for various possible configurations of a DeepLink -->
+  <string name="deep_link_note">Notiz</string>
+  <string name="deep_link_task">Aufgabe</string>
+  <string name="deep_link_link">DeepLink</string>
   <string name="deep_link_view_label">%1$s anzeigen</string>
 </resources>
