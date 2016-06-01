@@ -8,11 +8,13 @@
 <resources>
   <string name="common_cyanogen_ambient_unknown_issue">Okänt problem</string>
   <string name="update_button_title">Uppdatera</string>
+  <string name="install_button_title">Installera</string>
   <!-- Data fencing -->
   <!-- The EMAIL domain: this encapsulates events and objects related to email. -->
   <string name="df_domain_email">e-post</string>
   <!-- The MUSIC domain: this encapsulates events and objects related to music. -->
   <string name="df_domain_music">musik</string>
+  <string name="df_domain_music_permission">Åtkomst till din musik</string>
   <!-- Label strings for various possible configurations of a DeepLink -->
   <string name="deep_link_create_a_link">Skapa en länk</string>
   <string name="deep_link_view_label">Visa %1$s</string>

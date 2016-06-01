@@ -6,8 +6,16 @@
  *     Cyanogen Confidential and Proprietary.
  * =====================================================================-->
 <resources>
+  <string name="common_cyanogen_ambient_unknown_issue">Паўстала памылка</string>
+  <string name="update_ambient_title">Абнавіць Ambient</string>
+  <string name="update_ambient_msg">Гэты дадатак паўстаў, пакуль не будзе абноўлены Ambient</string>
+  <string name="update_button_title">Абнавіць</string>
+  <string name="install_ambient_msg">Дадатак паўстаў, пакуль не будзе ўсталяваны Ambient</string>
+  <string name="install_button_title">Усталяваць</string>
   <!-- Data fencing -->
   <!-- The EMAIL domain: this encapsulates events and objects related to email. -->
+  <string name="df_domain_email">электронная пошта</string>
   <!-- The MUSIC domain: this encapsulates events and objects related to music. -->
+  <string name="df_domain_music">музыка</string>
   <!-- Label strings for various possible configurations of a DeepLink -->
 </resources>

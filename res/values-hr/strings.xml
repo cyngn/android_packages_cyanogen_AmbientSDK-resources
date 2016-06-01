@@ -28,5 +28,6 @@
   <string name="deep_link_make_a_task_with">Napravite zadatak sa %1$s</string>
   <string name="deep_link_link">DeepLink</string>
   <string name="deep_link_create_a_link">Napravite poveznicu</string>
+  <string name="deep_link_create_a_link_with">Napravite poveznicu s %1$s</string>
   <string name="deep_link_view_label">Pogledaj %1$s</string>
 </resources>
