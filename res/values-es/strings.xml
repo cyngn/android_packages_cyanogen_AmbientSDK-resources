@@ -6,8 +6,28 @@
  *     Cyanogen Confidential and Proprietary.
  * =====================================================================-->
 <resources>
+  <string name="common_cyanogen_ambient_unknown_issue">Problema desconocido</string>
+  <string name="update_ambient_title">Actualizar servicios ambientales</string>
+  <string name="update_ambient_msg">Esta aplicación no funcionará a no ser que actualices los servicios ambientales</string>
+  <string name="update_button_title">Actualizar</string>
+  <string name="install_ambient_msg">Esta aplicación no funcionará a no ser que instales los servicios ambientales</string>
+  <string name="install_button_title">Instalar</string>
   <!-- Data fencing -->
   <!-- The EMAIL domain: this encapsulates events and objects related to email. -->
+  <string name="df_domain_email">correo electrónico</string>
+  <string name="df_domain_email_permission">Accede a tu correo electrónico</string>
   <!-- The MUSIC domain: this encapsulates events and objects related to music. -->
+  <string name="df_domain_music">música</string>
+  <string name="df_domain_music_permission">Accede a tu música</string>
   <!-- Label strings for various possible configurations of a DeepLink -->
+  <string name="deep_link_note">Nota</string>
+  <string name="deep_link_take_a_note">Toma una Nota</string>
+  <string name="deep_link_take_a_note_with">Toma una Nota con %1$s</string>
+  <string name="deep_link_task">Tarea</string>
+  <string name="deep_link_make_a_task">Hacer una tarea</string>
+  <string name="deep_link_make_a_task_with">Hacer una tarea con %1$s</string>
+  <string name="deep_link_link">DeepLink</string>
+  <string name="deep_link_create_a_link">Crear un enlace</string>
+  <string name="deep_link_create_a_link_with">Crear un Enlace con %1$s</string>
+  <string name="deep_link_view_label">Ver %1$s</string>
 </resources>
