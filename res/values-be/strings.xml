@@ -18,4 +18,6 @@
   <!-- The MUSIC domain: this encapsulates events and objects related to music. -->
   <string name="df_domain_music">музыка</string>
   <!-- Label strings for various possible configurations of a DeepLink -->
+  <string name="deep_link_note">Нататка</string>
+  <string name="deep_link_view_label">Праглядзець %1$s</string>
 </resources>
