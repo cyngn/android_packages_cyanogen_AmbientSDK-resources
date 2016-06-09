@@ -28,5 +28,6 @@
   <string name="deep_link_make_a_task_with">Hacer una tarea con %1$s</string>
   <string name="deep_link_link">DeepLink</string>
   <string name="deep_link_create_a_link">Crear un enlace</string>
+  <string name="deep_link_create_a_link_with">Crear un enlace con %1$s</string>
   <string name="deep_link_view_label">Ver %1$s</string>
 </resources>

@@ -6,8 +6,28 @@
  *     Cyanogen Confidential and Proprietary.
  * =====================================================================-->
 <resources>
+  <string name="common_cyanogen_ambient_unknown_issue">בעיה לא ידועה</string>
+  <string name="update_ambient_title">עדכון שירותי Ambient</string>
+  <string name="update_ambient_msg">יישום זה לא יפעל אם לא יעודכנו שירותי Ambient</string>
+  <string name="update_button_title">עדכן</string>
+  <string name="install_ambient_msg">יישום זה לא יפעל אם לא יותקנו שירותי Ambient</string>
+  <string name="install_button_title">התקנה</string>
   <!-- Data fencing -->
   <!-- The EMAIL domain: this encapsulates events and objects related to email. -->
+  <string name="df_domain_email">דוא\"ל</string>
+  <string name="df_domain_email_permission">גישה לדוא\"ל שלך</string>
   <!-- The MUSIC domain: this encapsulates events and objects related to music. -->
+  <string name="df_domain_music">מוסיקה</string>
+  <string name="df_domain_music_permission">גישה למוסיקה שלך</string>
   <!-- Label strings for various possible configurations of a DeepLink -->
+  <string name="deep_link_note">הערה</string>
+  <string name="deep_link_take_a_note">רשום הערה</string>
+  <string name="deep_link_take_a_note_with">רישום הערה באמצעות %1$s</string>
+  <string name="deep_link_task">מטלה</string>
+  <string name="deep_link_make_a_task">צור מטלה</string>
+  <string name="deep_link_make_a_task_with">צור מטלה באמצעות %1$s</string>
+  <string name="deep_link_link">קישור עומק</string>
+  <string name="deep_link_create_a_link">צור קישור</string>
+  <string name="deep_link_create_a_link_with">יצירת קישור באמצעות %1$s</string>
+  <string name="deep_link_view_label">הצג את %1$s</string>
 </resources>

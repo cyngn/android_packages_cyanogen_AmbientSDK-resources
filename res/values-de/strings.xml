@@ -7,6 +7,7 @@
  * =====================================================================-->
 <resources>
   <string name="common_cyanogen_ambient_unknown_issue">Unbekanntes Problem</string>
+  <string name="update_ambient_title">Ambient-Dienste aktualisieren</string>
   <string name="update_button_title">Aktualisieren</string>
   <string name="install_button_title">Installieren</string>
   <!-- Data fencing -->
