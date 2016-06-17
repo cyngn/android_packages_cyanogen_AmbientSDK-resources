@@ -8,7 +8,9 @@
 <resources>
   <string name="common_cyanogen_ambient_unknown_issue">Unbekanntes Problem</string>
   <string name="update_ambient_title">Ambient-Dienste aktualisieren</string>
+  <string name="update_ambient_msg">Diese App kann nicht ausgeführt werden, bis Sie die Ambient-Dienste aktualisieren</string>
   <string name="update_button_title">Aktualisieren</string>
+  <string name="install_ambient_msg">Diese Anwendung wird nicht starten, solange die Ambient-Dienste nicht installiert sind</string>
   <string name="install_button_title">Installieren</string>
   <!-- Data fencing -->
   <!-- The EMAIL domain: this encapsulates events and objects related to email. -->
