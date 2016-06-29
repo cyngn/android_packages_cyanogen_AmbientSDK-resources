@@ -8,6 +8,7 @@
 <resources>
   <!-- Data fencing -->
   <!-- The EMAIL domain: this encapsulates events and objects related to email. -->
+  <string name="df_domain_email">email</string>
   <!-- The MUSIC domain: this encapsulates events and objects related to music. -->
   <!-- Label strings for various possible configurations of a DeepLink -->
 </resources>

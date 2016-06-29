@@ -16,6 +16,7 @@
   <string name="df_domain_music">musik</string>
   <string name="df_domain_music_permission">Åtkomst till din musik</string>
   <!-- Label strings for various possible configurations of a DeepLink -->
+  <string name="deep_link_note">Anteckning</string>
   <string name="deep_link_create_a_link">Skapa en länk</string>
   <string name="deep_link_view_label">Visa %1$s</string>
 </resources>
