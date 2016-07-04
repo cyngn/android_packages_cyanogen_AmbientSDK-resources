@@ -6,6 +6,7 @@
  *     Cyanogen Confidential and Proprietary.
  * =====================================================================-->
 <resources>
+  <string name="common_cyanogen_ambient_unknown_issue">Onbekende fout</string>
   <!-- Data fencing -->
   <!-- The EMAIL domain: this encapsulates events and objects related to email. -->
   <!-- The MUSIC domain: this encapsulates events and objects related to music. -->
