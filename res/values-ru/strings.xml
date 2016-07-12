@@ -21,7 +21,13 @@
   <string name="df_domain_music_permission">Доступ к вашей музыке</string>
   <!-- Label strings for various possible configurations of a DeepLink -->
   <string name="deep_link_note">Примечание</string>
+  <string name="deep_link_take_a_note">Сделать заметку</string>
+  <string name="deep_link_take_a_note_with">Сделать заметку с помощью %1$s</string>
   <string name="deep_link_task">Задача</string>
+  <string name="deep_link_make_a_task">Создать задачу</string>
+  <string name="deep_link_make_a_task_with">Создать задачу с помощью %1$s</string>
   <string name="deep_link_link">DeepLink</string>
   <string name="deep_link_create_a_link">Создать ссылку</string>
+  <string name="deep_link_create_a_link_with">Создать ссылку с помощью %1$s</string>
+  <string name="deep_link_view_label">Просмотр %1$s</string>
 </resources>
