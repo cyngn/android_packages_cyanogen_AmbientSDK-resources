@@ -6,6 +6,10 @@
  *     Cyanogen Confidential and Proprietary.
  * =====================================================================-->
 <resources>
+  <string name="common_cyanogen_ambient_unknown_issue">Nieznany problem</string>
+  <string name="update_ambient_title">Aktualizacja usług Ambient</string>
+  <string name="update_ambient_msg">Ta aplikacja nie będzie działać, dopóki nie zaktualizujesz usługi Ambient</string>
+  <string name="update_button_title">Zaktualizuj</string>
   <!-- Data fencing -->
   <!-- The EMAIL domain: this encapsulates events and objects related to email. -->
   <!-- The MUSIC domain: this encapsulates events and objects related to music. -->
