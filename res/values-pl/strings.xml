@@ -10,6 +10,7 @@
   <string name="update_ambient_title">Aktualizacja usług Ambient</string>
   <string name="update_ambient_msg">Ta aplikacja nie będzie działać, dopóki nie zaktualizujesz usługi Ambient</string>
   <string name="update_button_title">Zaktualizuj</string>
+  <string name="install_ambient_msg">Ta aplikacja nie będzie działać, dopóki nie zainstalujesz usługi Ambient</string>
   <!-- Data fencing -->
   <!-- The EMAIL domain: this encapsulates events and objects related to email. -->
   <!-- The MUSIC domain: this encapsulates events and objects related to music. -->
