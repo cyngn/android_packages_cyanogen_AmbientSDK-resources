@@ -6,8 +6,28 @@
  *     Cyanogen Confidential and Proprietary.
  * =====================================================================-->
 <resources>
+  <string name="common_cyanogen_ambient_unknown_issue">Masalah tidak diketahui</string>
+  <string name="update_ambient_title">Pembaruan layanan ambien</string>
+  <string name="update_ambient_msg">Aplikasi ini tidak akan berjalan kecuali anda memperbarui layanan Ambien</string>
+  <string name="update_button_title">Perbarui</string>
+  <string name="install_ambient_msg">Aplikasi ini tidak akan berjalan kecuali anda menginstal layanan Ambien</string>
+  <string name="install_button_title">Instal</string>
   <!-- Data fencing -->
   <!-- The EMAIL domain: this encapsulates events and objects related to email. -->
+  <string name="df_domain_email">email</string>
+  <string name="df_domain_email_permission">Mengakses email anda</string>
   <!-- The MUSIC domain: this encapsulates events and objects related to music. -->
+  <string name="df_domain_music">musik</string>
+  <string name="df_domain_music_permission">Mengakses musik anda</string>
   <!-- Label strings for various possible configurations of a DeepLink -->
+  <string name="deep_link_note">Catatan</string>
+  <string name="deep_link_take_a_note">Ambil Catatan</string>
+  <string name="deep_link_take_a_note_with">Ambil sebuah Catatan dengan %1$s</string>
+  <string name="deep_link_task">Tugas</string>
+  <string name="deep_link_make_a_task">Buat sebuah Tugas</string>
+  <string name="deep_link_make_a_task_with">Buat sebuah Tugas dengan %1$s</string>
+  <string name="deep_link_link">Tautan</string>
+  <string name="deep_link_create_a_link">Buat sebuah Tautan</string>
+  <string name="deep_link_create_a_link_with">Buat sebuah Tautan dengan %1$s</string>
+  <string name="deep_link_view_label">Lihat %1$s</string>
 </resources>

@@ -6,8 +6,28 @@
  *     Cyanogen Confidential and Proprietary.
  * =====================================================================-->
 <resources>
+  <string name="common_cyanogen_ambient_unknown_issue">Ismeretlen hiba</string>
+  <string name="update_ambient_title">Környezeti szolgáltatások frissítése</string>
+  <string name="update_ambient_msg">Az alkalmazás nem fog futni a környezeti szolgáltatások frissítése nélkül</string>
+  <string name="update_button_title">Frissítés</string>
+  <string name="install_ambient_msg">Az alkalmazás nem fog futni a környezeti szolgáltatások telepítése nélkül</string>
+  <string name="install_button_title">Telepítés</string>
   <!-- Data fencing -->
   <!-- The EMAIL domain: this encapsulates events and objects related to email. -->
+  <string name="df_domain_email">e-mail</string>
+  <string name="df_domain_email_permission">Hozzáférés az e-mailjeihez</string>
   <!-- The MUSIC domain: this encapsulates events and objects related to music. -->
+  <string name="df_domain_music">zene</string>
+  <string name="df_domain_music_permission">Hozzáférés a zenéihez</string>
   <!-- Label strings for various possible configurations of a DeepLink -->
+  <string name="deep_link_note">Megjegyzés</string>
+  <string name="deep_link_take_a_note">Jegyzet készítése</string>
+  <string name="deep_link_take_a_note_with">Jegyzet készítése a következővel: %1$s</string>
+  <string name="deep_link_task">Feladat</string>
+  <string name="deep_link_make_a_task">Feladat készítése</string>
+  <string name="deep_link_make_a_task_with">Feladat készítése a következővel: %1$s</string>
+  <string name="deep_link_link">DeepLink</string>
+  <string name="deep_link_create_a_link">Link létrehozása</string>
+  <string name="deep_link_create_a_link_with">Link létrehozása a következővel: %1$s</string>
+  <string name="deep_link_view_label">%1$s megtekintése</string>
 </resources>
